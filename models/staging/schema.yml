@@ -9,6 +9,6 @@ models:
                 - unique
                 - not_null
 
-#          - name: host_id
-#            tests:
-#                - unique
+          - name: host_id
+            tests:
+                - unique
